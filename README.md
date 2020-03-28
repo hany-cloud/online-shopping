@@ -3,10 +3,10 @@ This is a complete web application project for electronic decives online shoppin
 There are four main parts to the application: shopping, registering new user, checkout, and administration. 
 It's developed using Spring MVC, Spring Security, Spring Webflow, Hibernate, Bootstrap and JQuery.
 
-For the Database, this project using H2Database for simplicity of installation and you can build the table throw the Hibernate itself or by running the databaseQueries.sql file that located under the shoppingbackend folder.
-And by using the abovementioned sql file, you will be guarantee that a sample data will be inserted into the created tables.
+Database of this project is H2Database for simplicity of installation and you can build the table throw the Hibernate itself or by running the databaseQueries.sql file that located under the shoppingbackend folder.
+And by using the databaseQueries.sql file, along with the table creation you will be guarantee that a sample data will be inserted into the created tables.
 
-Here we have to thank Khozema Nullwala on his really great job for building the project as a reference for everybody and you can find the original project in the following GitHub: https://github.com/khozema-nullwala/online-shopping link.
+Here we have to thank Khozema Nullwala on his really great job for building the project as a reference for everybody and you can find the original project in the following GitHub link: https://github.com/khozema-nullwala/online-shopping.
 
 All what I did is doing some descent amount of enhancements on the project as follows:
 
