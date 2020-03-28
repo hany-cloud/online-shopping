@@ -18,7 +18,7 @@ All what I did is doing some descent amount of enhancements on the project as fo
   
   4- Solving the miss format "order-confirm.jsp" file of chekout webflow and add this page to work on shred folder files.
   
-  5- Make some code enhancements on CartService and CartController classes.
+  5- Make some code enhancements on CartService and CartController classes. 
   
   6- Apply the design principle "program to interface" by adding new class "net.hka.onlineshopping.serviceimpl.CartServiceImpl". And converting the original class CartService to an interface.
   
